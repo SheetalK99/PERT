@@ -1,11 +1,11 @@
 
-import Graph.Vertex;
+import rbk.Graph.Vertex;
 
-import Graph;
-import Graph.Edge;
-import Graph.GraphAlgorithm;
-import Graph.Factory;
-import Graph.Timer;
+import rbk.Graph;
+import rbk.Graph.Edge;
+import rbk.Graph.GraphAlgorithm;
+import rbk.Graph.Factory;
+import rbk.Graph.Timer;
 
 import java.io.File;
 import java.util.List;
