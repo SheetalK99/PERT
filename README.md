@@ -14,6 +14,6 @@ For a task u:
 	public int numCritical();           // Number of critical nodes in graph
 
 ## References
-[Details on PERT](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique)
-[Topological Sort](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique)
-[Depth First Search](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13)
+* [Details on PERT](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique)
+* [Topological Sort](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique)
+* [Depth First Search](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13)
