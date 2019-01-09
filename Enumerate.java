@@ -1,14 +1,3 @@
-package axr170131;
-
-/** Starter code for permutations and combinations of distinct items
- *  @author
- *
-Team members: (LP1)
-Akshaya Ramaswamy (axr170131)
-Sheetal Kadam (sak170006)
-Meghna Mathur (mxm180022)
-Maleeha Koul  (msk180001)
-
 
  **/
 
