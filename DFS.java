@@ -1,21 +1,11 @@
 
-package axr170131;
-/* Driver code for PERT algorithm (LP4)
- * @author
- * Team members: (LP1)
-Akshaya Ramaswamy (axr170131)
-Sheetal Kadam (sak170006)
-Meghna Mathur (mxm180022)
-Maleeha Koul  (msk180001)
+import Graph.Vertex;
 
- */
-import rbk.Graph.Vertex;
-
-import rbk.Graph;
-import rbk.Graph.Edge;
-import rbk.Graph.GraphAlgorithm;
-import rbk.Graph.Factory;
-import rbk.Graph.Timer;
+import Graph;
+import Graph.Edge;
+import Graph.GraphAlgorithm;
+import Graph.Factory;
+import Graph.Timer;
 
 import java.io.File;
 import java.util.List;
